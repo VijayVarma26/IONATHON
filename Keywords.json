@@ -1,0 +1,38 @@
+{
+    "RIS":{
+        "Keywords":{
+            "23": "announces that it has today issued,announces the issuance of,issue and allot,listing of its Ordinary Shares to trading,Proposed Placing,Proposed Fundraising,Proposed Capital Raising,Proposed Issue,Placing Programme,Proposed Placing,announce a subscription,subscription to raise,Issue of Equity,Proposed Capital Raising,Expected Intention to Float,Intention to Float,PROPOSED OPEN OFFER,PROPOSED RIGHTS ISSUE,Subscription Right",
+            "25": "First Day of Dealing,Admission to Trading,Admission is expected to occur,RESULT OF PLACING,closed the Placing,completion of the Bookbuild,Placing Completion,that it has raised,Company has raised gross proceeds,successfully raised,Successful private placement,Results of REX Retail Offer,CLOSE OF RETAIL OFFER,First Day of Dealing,Admission to Trading,First Day of Dealings,RESULTS OF OPEN OFFER,Final Results of Open Offer,Result of Open Offer,OUTCOME OF THE RIGHTS ISSUE,RIGHTS ISSUE OFFER CLOSES,RESULTS OF RIGHTS ISSUE",
+            "15":"consideration shares,deferred consideration",
+            "882":"accelerated bookbuild,Placing is to be conducted by way of an accelerated bookbuild process,Placing will be conducted through an accelerated bookbuilding,Placing to be conducted via an accelerated bookbuild",
+            "18":"Placing Programme,Proposed Placing,Private Placement,non-brokered private placement,Subscription for Shares,Initial Placing,Placing",
+            "20":"Offer for Subscription,Retail Offer,REX Retail Offer",
+            "16":"initial public offering,IPO",
+            "19": "Open Offer",
+            "17": "Subscription Right,RIGHTS ISSUE",
+            "7": "Ordinary Share,new ordinary shares,Placing Shares,Units,Each Unit consists,one common share,New Ordinary Shares,New Shares",
+            "14": "one Common Share purchase warrant,Warrant,OPEN OFFER WARRANT"
+        },
+        "transaction_parties": "AQSE Corporate Adviser,Broker,Bookrunner,Joint Broker,Corporate Adviser & Joint Broker,Nominated Adviser,Corporate Broker,Financial Adviser,Broker,Joint Broker,NOMAD,Sponsor,sole broker,sole bookrunner,Joint Global Coordinator,Joint Bookrunner,Sole Sponsor,Corporate Broker",
+        "transaction_size" : "gross cash proceeds of, Capital to be raised, Capital to be raised on Admission, raising total gross proceeds of at least, to raise minimum gross proceeds of approximately, to raise gross proceeds of, to raise up to approximately, to raise aggregate gross proceeds of, raised gross proceeds of, to raise up to, to raise a further, to raise gross proceeds of approximately, to raise proceeds of approximately",
+        "market_of_listing": "main market for listed securities, Admission to, to trading on, main market for listed securities of the, to trading on the, to trading on the main market of the, to trading on the premium segment of" 
+    },
+
+    "SEDAR":{
+        "Keywords":{
+            "23": "ANNOUNCES NON-BROKERED PRIVATE PLACEMENT,Announces Upsize of Overnight Marketed Best Efforts Public Offering,ANNOUNCES INCREASE TO NON-BROKERED PRIVATE PLACEMENT,announced overnight marketed best efforts public offering,Announces Pricing of Public Offering,Announces Proposed Public Offering of Units,ANNOUNCES LAUNCH OF IPO,Announces Rights Offering,FILING OF A RIGHTS OFFERING CIRCULAR,ANNOUNCES CLOSING OF RIGHTS OFFERING,Announces Institutional NVCC Preferred Share Issue,ANNOUNCES PREFERRED SHARE OFFERING",
+            "25": "CLOSING OF PRIVATE PLACEMENT,closed its non-brokered private placement,completed a non-brokered private placement,Completes Overnight Offering,CLOSES FINANCING,CLOSES FIRST TRANCHE OF PRIVATE PLACEMENT,Closes Upsized Bought Deal Offering,FINAL CLOSING OF OVERSUBSCRIBED PRIVATE PLACEMENT,Closing of Initial Public Offering,completed its initial public offering,FILES PRELIMINARY PROSPECTUS FOR ITS INITIAL PUBLIC OFFERING,COMPLETED RIGHTS OFFERING,COMPLETES TREASURY OFFERING,Announces Closing of First Tranche Class A Preferred Share Financing",
+            "18": "Placing,private placement,non-brokered private placement,bought deal private placement",
+            "20": "Retail and Public,public offering,overnight marketed public offering,Overnight Marketed Best Efforts Public Offering,Proposed Public Offering,overnight marketed public offering",
+            "16": "initial public offering,IPO,proposed initial public offering",
+            "17": "RIGHTS OFFERING,RIGHTS OFFERING CIRCULAR,GUARANTEED RIGHTS OFFERING",
+            "9" : "Unit,Class A units,Class A Restricted Voting Units",
+            "7" : "Common Stock,common share,Preferred Share,flow-through units,FT unit,Post-Consolidation Share,ordinary shares",
+            "14": "Warrants,purchase warrant,Common Share purchase warrant,warrant exercisable to acquire one additional share,non-transferable share purchase warrant",
+            "8" : "Depository Shares and Receipts,Chess Depository Interests,Brazilian depositary receipts,American Depositary Shares,SUBSCRIPTION RECEIPTS"
+        },
+        "transaction_parties": "agency agreement to be entered into between,as joint bookrunners,co-lead agents,on behalf of a syndicate of agents,offering was led by,entered into an agreement with,Lead Agent,as sole bookrunner,Underwriter agreed to purchase,lead underwriter and sole bookrunner,with a syndicate of underwriters,as directed by,sole discretion of the Underwriters,as the sole agent and sole bookrunner,acted as joint lead book-running managers,acted as co-managers,s being made to pursuant to an agency agreement,offering was co-led by",
+        "transaction_size" : "gross cash proceeds of, Capital to be raised, Capital to be raised on Admission, raising total gross proceeds of at least, to raise minimum gross proceeds of approximately, to raise gross proceeds of, to raise up to approximately, to raise aggregate gross proceeds of, raised gross proceeds of, to raise up to, to raise a further, to raise gross proceeds of approximately, to raise proceeds of approximately",
+        "market_of_listing": "demo"
+    }
+}
